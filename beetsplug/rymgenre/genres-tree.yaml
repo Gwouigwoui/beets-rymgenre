@@ -2,51 +2,60 @@
   - Ambient Dub
   - Dark Ambient:
     - Black Ambient
-    - Dark Jazz
     - Ritual Ambient
   - Space Ambient
   - Tribal Ambient
 - Blues:
   - Acoustic Blues:
     - Acoustic Chicago Blues
+    - Country Blues
+    - Jug Band
     - Country Blues:
       - Acoustic Texas Blues
       - Delta Blues
       - Piedmont Blues
-    - Jug Band
   - Boogie Woogie
   - Electric Blues:
     - British Blues
     - Chicago Blues
     - Electric Texas Blues
     - Swamp Blues
+  - Hill Country Blues
   - Jump-Blues
   - New Orleans Blues
   - Piano Blues
   - Vaudeville Blues
 - Classical Music:
   - Arabic Classical Music:
-    - Al-Maqam Al-Iraqi
     - Andalusian Classical Music
+    - Iraqi Maqam
   - Brazilian Classical Music
+  - Cinematic Classical
   - East Asian Classical Music:
     - Chinese Classical Music:
+      - Baisha Xiyue
       - Chinese Opera
+      - Dongjing
       - Yayue
     - Japanese Classical Music:
       - Gagaku
       - Heikyoku
+      - Honkyoku
       - Jiuta
       - Jōruri
       - Nagauta
       - Noh
-      - Shomyo
-      - Soukyoku:
+      - Shōmyō
+      - Sōkyoku:
         - Danmono
         - Kumiuta
     - Korean Classical Music:
+      - Aak
+      - Dang-ak
       - Hyang-ak
-    - Vietnamese Classical Music
+      - Jeong-ak
+    - Vietnamese Classical Music:
+      - Vietnamese Opera
   - Latin Classical Music
   - Modern Classical:
     - Expressionism
@@ -55,8 +64,12 @@
     - Microtonal
     - Minimalism
     - New Complexity
-    - Post-Minimalism
-    - Serialism
+    - Post-Minimalism:
+      - Totalism
+    - Serialism:
+      - Integral Serialism
+    - Sonorism
+    - Spaghetti Western
     - Spectralism
     - Stochastic Music
   - Persian Classical Music
@@ -70,30 +83,42 @@
       - Qawwali:
         - Kafi
       - Thumri
+    - Odissi Classical Music
+    - Sufiana kalam
   - Southeast Asian Classical Music:
     - Burmese Classical Music
-    - Caklempong
     - Gamelan:
-      - Gamelan Angklung
-      - Gamelan Degung
-      - Gamelan Gong Kebyar
+      - Gamelan angklung
+      - Gamelan beleganjur
+      - Gamelan degung
+      - Gamelan gender wayang
+      - Gamelan gong gede
+      - Gamelan gong kebyar
       - Gamelan Jawa
+      - Gamelan jegog
+      - Gamelan selonding
+      - Gamelan semar pegulingan
     - Kecapi Suling
     - Kulintang
     - Mahori
+    - Malay Classical Music
     - Pinpeat
     - Saluang Klasik
+    - Talempong
     - Tembang Cianjuran
     - Thai Classical Music:
+      - Khrueang sai
       - Piphat
   - Turkish Classical Music
   - Western Classical Music:
     - Baroque Music:
       - Tragédie en musique
-    - Byzantine Music
+    - Byzantine Music:
+      - Byzantine Chant
     - Chamber Music
     - Choral
-    - Classical Marches
+    - Classical March:
+      - Circus March
     - Classical Period
     - Classical Waltz
     - Impressionism
@@ -103,12 +128,14 @@
       - Ars Antiqua
       - Ars Nova
       - Ars Subtilior
+      - Medieval Lyric Poetry
       - Plainsong:
         - Gregorian Chant
     - Neoclassicism
     - Opera:
-      - Opera Seria
       - Opera buffa
+      - Opera semiseria
+      - Opera seria
       - Operetta:
         - Zarzuela
       - Tragédie en musique
@@ -121,6 +148,46 @@
     - Romanticism
     - Spanish Classical Music:
       - Zarzuela
+- Comedy:
+  - Dutch Cabaret
+  - Kabarett
+  - Musical Comedy:
+    - Comedy Rap
+    - Comedy Rock
+    - Scrumpy and Western
+  - Prank Calls
+  - Sketch Comedy
+  - Stand-Up Comedy
+- Country:
+  - Alt-Country:
+    - Gothic Country
+  - Americana
+  - Contemporary Country:
+    - Country Rap
+    - Neo-Traditionalist Country
+  - Country & Irish
+  - Country Pop:
+    - Bro-Country
+    - Nashville Sound
+    - Urban Cowboy
+  - Honky Tonk:
+    - Bakersfield Sound
+    - Truck Driving Country
+  - Progressive Country:
+    - Outlaw Country:
+      - Red Dirt
+    - Progressive Bluegrass
+  - Traditional Country:
+    - Bluegrass:
+      - Bluegrass Gospel
+    - Close Harmony
+    - Country Boogie
+    - Country Gospel:
+      - Bluegrass Gospel
+    - Country Yodeling
+    - Cowboy
+    - Old-Time
+  - Western Swing
 - Dance:
   - Alternative Dance:
     - Grebo
@@ -130,9 +197,13 @@
     - Eurodance:
       - Bubblegum Dance
       - Italo Dance
+    - Freestyle
+      - Latin Freestyle
     - Funk Melody
     - Romanian Dance-Pop
     - Tecnorumba
+    - Township Bubblegum
+  - Dance-Punk
   - Disco:
     - Boogie
     - Electro-Disco:
@@ -142,27 +213,39 @@
       - Space Disco
     - Euro-Disco
     - Latin Disco
-    - Nu-Disco
+    - Nu-Disco:
+      - Future Funk
   - Electronic Dance Music:
+    - Balani Show
+    - Bérite Club
     - Breakbeat:
       - Baltimore Club
       - Big Beat
       - Breakbeat Hardcore:
         - Hardcore Breaks
       - Jersey Club
+      - Nu Skool Breaks
+      - Progressive Breaks
+    - Bubblegum Bass
+    - Bubbling
     - Coupé-Décalé
+    - Deconstructed Club
     - Digital Cumbia
     - Drum and Bass:
       - Atmospheric Drum and Bass
-      - Darkstep
+      - Dancefloor Drum and Bass
+      - Darkstep:
+        - Crossbreed
       - Drumfunk
       - Drumstep
+      - Halftime
       - Hardstep
       - Jazzstep
       - Jump-Up
       - Jungle:
         - Ragga Jungle
-      - Liquid Funk
+      - Liquid Funk:
+        - Sambass
       - Minimal Drum and Bass
       - Neurofunk
       - Techstep
@@ -171,52 +254,64 @@
       - Brostep:
         - Deathstep
         - Drumstep
+        - Riddim
       - Chillstep
+      - Melodic Dubstep
       - Purple Sound
     - EBM:
       - Aggrotech
       - Futurepop
       - New Beat
     - Electro:
-      - Funk Carioca:
-        - Funk Melody
       - Skweee
-    - Electro Latino
-    - Electro Swing
+    - Electroclash
     - Electro-Disco:
       - Hi-NRG
       - Italo-Disco:
         - Eurobeat
       - Space Disco
-    - Electroclash
+    - Electro latino
+    - Electro Swing
     - Eurodance:
       - Bubblegum Dance
       - Italo Dance
     - Freestyle:
       - Latin Freestyle
+    - Funk carioca
     - Funktronica
     - Hardcore [EDM]:
       - Acidcore
+      - Bouncy Techno
       - Breakbeat Hardcore:
         - Hardcore Breaks
+      - Crossbreed
       - Digital Hardcore
+      - Doomcore
+      - Freeform Hardcore
       - Frenchcore
       - Funkot
       - Gabber:
         - Nu Style Gabber
-      - Happy Hardcore
+      - Happy Hardcore:
+        - UK Hardcore
+      - Industrial Hardcore
       - J-core
       - Speedcore:
         - Extratone
         - Splittercore
       - Terrorcore
-      - Trancecore / Freeform
+    - Hard Drum
     - House:
       - Acid House
+      - Afro-House
+      - Amapiano
       - Ambient House
       - Balearic Beat
       - Ballroom
       - Baltimore Club
+      - Bass House
+      - Bubbling House
+      - Chicago Hard House
       - Chicago House
       - Deep House:
         - Outsider House
@@ -226,39 +321,51 @@
         - Complextro
         - Fidget House
         - Jungle Terror
+        - Melbourne Bounce
       - Euro House
-      - French House:
-        - Future Funk
+      - French House
       - Funky House
+      - Future House
       - Garage House
       - Ghetto House:
         - Ghettotech
         - Juke:
           - Footwork
-      - Hard House:
-        - NRG
+      - Gqom
       - Hip House
       - Italo House
       - Jersey Club
       - Kwaito
       - Latin House
       - Microhouse
-      - Nu-Disco
+      - Nu-Disco:
+        - Future Funk
+      - Philly Club
       - Progressive House:
         - Big Room
-      - Scouse House
+        - Progressive Breaks
+      - Scouse House:
+        - Hardbass
       - Tech House
       - Tribal House
-    - Kuduro
+      - Tropical House
+      - UK Hard House:
+        - NRG
+    - Kuduro:
+      - Batida
+    - Mahraganat
     - Makina
+    - Manyao
     - Moombahton:
       - Moombahcore
     - Romanian Dance-Pop
     - Shangaan Electro
+    - Singeli
     - Spacesynth
     - Techno:
       - Acid Techno
       - Ambient Techno
+      - Bleep Techno
       - Detroit Techno
       - Freetekno
       - Industrial Techno
@@ -267,7 +374,8 @@
       - Schranz
       - Tech House
       - Wonky Techno
-    - Tecnobrega
+    - Tecnobrega:
+      - Brega-funk
     - Tecnorumba
     - Trance:
       - Acid Trance
@@ -291,157 +399,68 @@
       - Tech Trance
       - Uplifting Trance
       - Vocal Trance
-    - Trap
+    - Trap [EDM]:
+      - Twerk
     - Tribal Guarachero
+    - UK Bass
     - UK Garage:
       - 2-Step
       - Bassline
       - Breakstep
       - Future Garage
       - Speed Garage
-      - UK Bass:
-        - Bubblegum Bass
       - UK Funky
     - Wonky
-- Darkwave:
-  - Ethereal Wave
-  - Neoclassical Darkwave
-- Descriptor:
-  - A cappella:
-    - Barbershop
-    - Canto cardenche
-    - Madrigal
-    - Mbube
-    - Sacred Harp Music
-    - Sean-nós
-  - Abstract Hip Hop
-  - Acoustic Rock
-  - CCM:
-    - Praise & Worship
-  - Chamber Music
-  - Children's Music:
-    - Fairy Tales
-    - Lullabies
-    - Nursery Rhymes
-  - Christian Hip Hop
-  - Christian Rock
-  - Church Music:
-    - Armenian Church Music
-    - Coptic Music
-    - Gaelic Psalm
-    - Plainsong:
-      - Gregorian Chant
-    - Pra God
-  - Comedy:
-    - Dutch Cabaret
-    - Kabarett
-    - Musical Comedy:
-      - Comedy Rap
-      - Comedy Rock
-      - Musical Parody
-    - Novelty:
-      - Scrumpy and Western
-    - Prank Calls
-    - Satire
-    - Sketch Comedy
-    - Stand-up Comedy
-  - Conscious Hip Hop
-  - East Coast Hip Hop
-  - Educational Music
-  - French Hip Hop
-  - French Pop:
-    - Yé-Yé
-  - Gangsta Rap:
-    - Chicano Rap
-    - Trap Rap:
-      - Bop
-  - Holiday Music:
-    - Carols
-    - Christmas Music:
-      - Colinde
-    - Halloween Music
-  - Hymns:
-    - Sacred Harp Music
-  - NWOBHM
-  - Poezja śpiewana
-  - Political Hip Hop
-  - Polyphonic Chant:
-    - Ars Nova
-    - Ars Subtilior
-    - Cantu a tenore
-    - Lab Polyphony
-    - Madrigal
-    - Sutartinės
-    - Tosk Polyphony
-  - Queercore
-  - Rock Opera
-  - Sounds and Effects
-  - Soundtracks:
-    - Cartoon Music
-    - Film Soundtrack:
-      - Film Score
-      - Filmi
-    - Jingles
-    - Library Music
-    - Show Tunes:
-      - Operetta:
-        - Zarzuela
-    - Sounds and Effects
-    - Television Music
-    - Video Game Music
-  - Southern Hip Hop
-  - Spoken Word:
-    - Fairy Tales
-    - Interview
-    - Poetry:
-      - Beat Poetry
-      - Cantillation
-      - Dub Poetry
-      - Jazz Poetry
-      - Sound Poetry
-    - Radio Play
-    - Speeches
-  - Teen Pop:
-    - Boy Band
-  - Vanguarda Paulista
-  - Visual Kei
-  - Vocal Group:
-    - Barbershop
-    - Doo-Wop
-  - West Coast Hip Hop
-- Dungeon Synth
 - Electronic:
+  - Acid Croft
   - Ambient Dub
   - Bit Music:
     - 16-bit
     - Chiptune
-    - Sequencer & MIDI
-  - Broken Beat
+    - FM Synthesis
+    - Sequencer & Tracker
+  - Bitpop:
+    - Picopop
   - Downtempo:
     - Trip Hop
+  - Dungeon Synth
+  - Electroacoustic:
+    - EAI
+    - Musique concrète
   - Electro-Industrial:
     - Dark Electro:
       - Aggrotech
   - Electronic Dance Music:
+    - Balani Show
+    - Bérite Club
     - Breakbeat:
       - Baltimore Club
       - Big Beat
       - Breakbeat Hardcore:
         - Hardcore Breaks
       - Jersey Club
+      - Nu Skool Breaks
+      - Progressive Breaks
+    - Bubblegum Bass
+    - Bubbling
     - Coupé-Décalé
+    - Deconstructed Club
     - Digital Cumbia
     - Drum and Bass:
       - Atmospheric Drum and Bass
-      - Darkstep
+      - Dancefloor Drum and Bass
+      - Darkstep:
+        - Crossbreed
       - Drumfunk
       - Drumstep
+      - Halftime
       - Hardstep
       - Jazzstep
       - Jump-Up
       - Jungle:
         - Ragga Jungle
-      - Liquid Funk
+      - Liquid Funk:
+        - Sambass
       - Minimal Drum and Bass
       - Neurofunk
       - Techstep
@@ -450,52 +469,64 @@
       - Brostep:
         - Deathstep
         - Drumstep
+        - Riddim
       - Chillstep
+      - Melodic Dubstep
       - Purple Sound
     - EBM:
       - Aggrotech
       - Futurepop
       - New Beat
     - Electro:
-      - Funk Carioca:
-        - Funk Melody
       - Skweee
-    - Electro Latino
-    - Electro Swing
+    - Electroclash
     - Electro-Disco:
       - Hi-NRG
       - Italo-Disco:
         - Eurobeat
       - Space Disco
-    - Electroclash
+    - Electro latino
+    - Electro Swing
     - Eurodance:
       - Bubblegum Dance
       - Italo Dance
     - Freestyle:
       - Latin Freestyle
+    - Funk carioca
     - Funktronica
     - Hardcore [EDM]:
       - Acidcore
+      - Bouncy Techno
       - Breakbeat Hardcore:
         - Hardcore Breaks
+      - Crossbreed
       - Digital Hardcore
+      - Doomcore
+      - Freeform Hardcore
       - Frenchcore
       - Funkot
       - Gabber:
         - Nu Style Gabber
-      - Happy Hardcore
+      - Happy Hardcore:
+        - UK Hardcore
+      - Industrial Hardcore
       - J-core
       - Speedcore:
         - Extratone
         - Splittercore
       - Terrorcore
-      - Trancecore / Freeform
+    - Hard Drum
     - House:
       - Acid House
+      - Afro-House
+      - Amapiano
       - Ambient House
       - Balearic Beat
       - Ballroom
       - Baltimore Club
+      - Bass House
+      - Bubbling House
+      - Chicago Hard House
       - Chicago House
       - Deep House:
         - Outsider House
@@ -505,39 +536,51 @@
         - Complextro
         - Fidget House
         - Jungle Terror
+        - Melbourne Bounce
       - Euro House
-      - French House:
-        - Future Funk
+      - French House
       - Funky House
+      - Future House
       - Garage House
       - Ghetto House:
         - Ghettotech
         - Juke:
           - Footwork
-      - Hard House:
-        - NRG
+      - Gqom
       - Hip House
       - Italo House
       - Jersey Club
       - Kwaito
       - Latin House
       - Microhouse
-      - Nu-Disco
+      - Nu-Disco:
+        - Future Funk
+      - Philly Club
       - Progressive House:
         - Big Room
-      - Scouse House
+        - Progressive Breaks
+      - Scouse House:
+        - Hardbass
       - Tech House
       - Tribal House
-    - Kuduro
+      - Tropical House
+      - UK Hard House:
+        - NRG
+    - Kuduro:
+      - Batida
+    - Mahraganat
     - Makina
+    - Manyao
     - Moombahton:
       - Moombahcore
     - Romanian Dance-Pop
     - Shangaan Electro
+    - Singeli
     - Spacesynth
     - Techno:
       - Acid Techno
       - Ambient Techno
+      - Bleep Techno
       - Detroit Techno
       - Freetekno
       - Industrial Techno
@@ -546,7 +589,8 @@
       - Schranz
       - Tech House
       - Wonky Techno
-    - Tecnobrega
+    - Tecnobrega:
+      - Brega-funk
     - Tecnorumba
     - Trance:
       - Acid Trance
@@ -570,32 +614,34 @@
       - Tech Trance
       - Uplifting Trance
       - Vocal Trance
-    - Trap
+    - Trap [EDM]:
+      - Twerk
     - Tribal Guarachero
+    - UK Bass
     - UK Garage:
       - 2-Step
       - Bassline
       - Breakstep
       - Future Garage
       - Speed Garage
-      - UK Bass:
-        - Bubblegum Bass
       - UK Funky
     - Wonky
   - Electropop
-  - Folktronica:
-    - Acid Croft
+  - Folktronica
   - Glitch
-  - Glitch Pop
-  - Grime
+  - Glitch Hop:
+    - Neurohop
+  - Glitch Pop:
+  - Grime:
+    - Weightless
   - Horror Synth
   - IDM:
     - Breakcore:
       - Lolicore
+      - Mashcore
       - Raggacore
     - Drill and Bass
     - Flashcore
-    - Glitch Hop
   - Illbient
   - Indietronica:
     - Chillwave
@@ -607,75 +653,88 @@
     - Nortec
     - Tribal Guarachero
   - Microsound
+  - Minatory
   - Minimal Wave:
     - Minimal Synth
+  - Nightcore
   - Nu Jazz:
     - Electro Swing
   - Progressive Electronic:
     - Berlin School
   - Psybient
   - Synth Pop:
-    - Bitpop:
-      - Picopop
     - Futurepop
+    - Techno Kayō
   - Synth Punk
-  - Synthwave
-  - Vaporwave
+  - Synthwave:
+    - Darksynth
+  - Vaportrap
+  - Vaporwave:
+    - Future Funk
+    - Mallsoft
+  - Wave
   - Witch House
 - Experimental:
+  - Conducted Improvisation
   - Drone
   - Electroacoustic:
     - EAI
+    - Musique concrète
   - Free Improvisation:
     - EAI
+  - Futurism
   - Glitch
   - Indeterminacy
   - Industrial:
     - Power Electronics:
       - Death Industrial
-    - Power Noise
-  - Lowercase:
-    - Onkyo
   - Noise:
+    - Gorenoise
     - Harsh Noise:
       - Harsh Noise Wall
     - Power Electronics:
       - Death Industrial
     - Power Noise
+  - Plunderphonics:
+    - Vaporwave:
+      - Future Funk
+      - Mallsoft
+  - Reductionism:
+    - Lowercase
+    - Onkyo
+  - Sound Art
+  - Sound Collage:
+    - Microsound
   - Sound Poetry
-  - Tape Music:
-    - Musique concrète
-    - Sound Collage:
-      - Microsound
-      - Plunderphonics:
-        - Mashup
-        - Vaporwave
-    - Turntable Music
+  - Tape Music
+  - Turntable Music
 - Field Recordings:
   - Nature Recordings:
-    - Birdsong
-    - Whale Song
-  - Numbers Stations Broadcasts
+    - Animal Sounds
+  - Radio broadcast recordings
 - Folk:
   - Contemporary Folk:
     - American Primitivism
     - Anti-Folk
     - Avant-Folk
     - Bard Music
+    - Campus Folk
+    - Canzone d'autore
     - Chamber Folk
     - Euskal Kantagintza Berria
     - Folk Baroque
     - Folk Pop
-    - Folk Revival
     - Indie Folk
+    - Música de intervenção
     - Neofolk:
       - Dark Folk
     - Nova cançó
+    - Nòva cançon
     - Nueva canción:
       - Nueva canción española
       - Nueva canción latinoamericana:
         - Nueva trova
-    - Nòva cançon
+
     - Progressive Folk
     - Psychedelic Folk:
       - Freak Folk
@@ -696,16 +755,17 @@
       - Ngoma:
         - Unyago
       - Semba
-      - Shona Mbira Music
       - Southern African Folk Music:
         - Khoisan Folk Music
         - Nguni Folk Music
+        - Shona Mbira Music
         - Sotho-Tswana Folk Music
       - Tchinkoumé
       - Traditional Maloya
       - Traditional Séga
       - Zinli
     - American Folk Music:
+      - Appalachian Folk Music
       - Barbershop
       - Boogie Woogie
       - Cajun:
@@ -719,6 +779,7 @@
         - Country Gospel:
           - Bluegrass Gospel
         - Southern Gospel
+        - Traditional Black Gospel
       - Jug Band
       - Ragtime:
         - Cakewalk
@@ -727,6 +788,7 @@
         - Stride
       - Sacred Harp Music
       - Spirituals
+      - Talking Blues
       - Traditional Country:
         - Bluegrass:
           - Bluegrass Gospel
@@ -738,13 +800,13 @@
         - Cowboy
         - Old-Time
     - Arabic Folk Music:
-      - Algerian Chaabi
       - Arabic Bellydance Music
-    - Armenian Folk Music
     - Australian Folk Music
     - Austronesian Traditional Music:
       - Gondang
+      - Indigenous Taiwanese Music
       - Pakacaping Music
+    - Balitaw
     - Canadian Folk Music:
       - Canadian Maritime Folk:
         - Cape Breton Folk Music:
@@ -752,11 +814,22 @@
       - French-Canadian Folk Music
       - Newfoundland Folk Music
     - Caribbean Folk Music:
-      - Cariso
+      - Fungi
       - Garifuna Folk Music
       - Junkanoo
       - Méringue
       - Ripsaw
+      - Trinidadian Cariso
+      - Tumba
+      - Virgin Islander Cariso
+    - Caucasian Folk Music:
+      - Abkhazian Folk Music
+      - Avar Folk Music
+      - Chechen Folk Music
+      - Circassian Folk Music
+      - Georgian Folk Music
+      - Ossetian Folk Music
+    - Chuvash Folk Music
     - East Asian Folk Music:
       - Ainu Folk Music:
         - Upopo
@@ -765,30 +838,38 @@
         - Guoyue
         - Han Folk Music
         - Jiangnan Sizhu
+      - Indigenous Taiwanese Music
       - Japanese Folk Music:
         - Amami Shimauta
         - Heikyoku
         - Kagura
-        - Minyou
+        - Kouta
+        - Min'yō
+        - Ondō
+        - Rōkyoku
         - Taiko
         - Tsugaru Shamisen
-      - Korean Folk Music
+      - Korean Folk Music:
+        - Pansori
+        - Sanjo
+        - Sinawi
     - European Folk Music:
-      - Alpine Folk Music
+      - Alpine Folk Music:
+        - Naturjodel
       - Balkan Folk Music:
         - Albanian Folk Music:
           - Lab Polyphony
-          - Popullore
+          - Musika popullore
           - Tosk Polyphony
         - Balkan Brass Band
         - Bulgarian Folk Music
         - Csango Folk Music
         - Gagauz Folk Music
         - Greek Folk Music:
+          - Aegean Islands Folk Music
+          - Cretan Folk Music
           - Dimotika
-          - Kritika
-          - Nisiotika Aigaiou
-          - Nisiotika Ioniou
+          - Ionian Islands Folk Music
           - Rembetika
         - Lăutărească
         - Macedonian Folk Music:
@@ -797,9 +878,9 @@
         - Starogradska muzika:
           - Čalgija
       - Basque Folk Music
-      - Catalan Folk Music
+      - Catalan Folk Music:
+        - Sardana
       - Celtic Folk Music:
-        - Acid Croft
         - Asturian Folk Music
         - Breton Celtic Folk Music:
           - Bagad
@@ -815,16 +896,19 @@
         - Scottish Folk Music:
           - Gaelic Psalm
           - Pibroch
+          - Pipe Band
           - Shetland and Orkney Islands Folk Music
+          - Waulking Song
         - Trás-os-Montes Folk Music
         - Welsh Folk Music
+      - Dutch Folk Music
       - English Folk Music:
         - Cornish Folk Music
-        - Folk Baroque
         - Northumbrian Folk Music
         - Scrumpy and Western
       - Estonian Folk Music
-      - Fanfare
+      - Fanfare:
+        - Brass Band
       - Flemish Folk Music
       - French Folk Music:
         - Alsatian Folk Music
@@ -836,14 +920,18 @@
         - Occitan Folk Music:
           - Auvergnat Folk Music
           - Gascon Folk Music
+      - German Folk Music
       - Għana
       - Hungarian Folk Music
       - Italian Folk Music:
         - Cantu a tenore
         - Canzone napoletana
+        - Liscio
+        - Trallalero
       - Latvian Folk Music
       - Lithuanian Folk Music:
         - Sutartinės
+      - Mari Folk Music
       - Neo-Medieval Folk
       - Nordic Folk Music:
         - Danish Folk Music
@@ -858,6 +946,8 @@
         - Swedish Folk Music
       - Polka
       - Portuguese Folk Music:
+        - Cante alentejano
+        - Chamarrita açoriana
         - Fado:
           - Coimbra Fado
         - Trás-os-Montes Folk Music
@@ -867,11 +957,12 @@
         - Doina
         - Lăutărească
       - Slavic Folk Music:
+        - Belarusian Folk Music
         - Bulgarian Folk Music
+        - Croatian Folk Music
         - Czech Folk Music
         - Goral Music:
           - Polish Carpathian Folk Music
-        - Klapa
         - Macedonian Folk Music:
           - Čalgija
         - Moravian Folk Music
@@ -902,14 +993,15 @@
         - Galician Folk Music
         - Pasodoble
         - Sevillanas
+      - Walloon Folk Music
       - Warsaw City Folk
+      - Yiddish Folksong
     - Georgian Folk Music
     - Hill Tribe Music:
       - Hmong Folk Music
     - Indigenous Australian Music:
       - Djanba
-    - Iranian Folk Music
-    - Israeli Folk Music
+    - Kundiman
     - Malagasy Folk Music
     - Mexican Folk Music:
       - Canto cardenche
@@ -919,56 +1011,105 @@
       - Son Istmeño
       - Son Jarocho
       - Trova yucateca
+    - Micronesian Traditional Music
     - Native American Music:
-      - Inuit Vocal Games
+      - Carnavalito
+      - Harawi
+      - Huayno
+      - Inuit Music:
+        - Inuit Vocal Games
       - Powwow Music
     - Papuan Traditional Music
     - Rapai dabõih
     - Romani Folk Music
-    - Sephardic Music
+    - Samoyedic Traditional Music
+    - Sephardic Music:
+        - Maftirim
     - South American Folk Music:
       - Andean Folk Music:
+        - Carnavalito
+        - Chacarera
         - Harawi
         - Huayno
         - Muliza
+        - Saya afroboliviana
+      - Bambuco
       - Canto a lo poeta
-      - Chacarera
+      - Chamarrita rioplatense
       - Cueca
       - Joropo
+      - Malagueña venezolana
       - Mapuche Music
       - Milonga
-      - Música Criolla Peruana
+      - Música criolla peruana:
+        - Marinera
+        - Tondero
+        - Vals criollo
+      - Sertanejo de raiz:
+        - Moda de viola
       - Tamborito
       - Taquirari
-      - Venezuelan Malagueña
+      - Vallenato
       - Zamba
     - South Asian Folk Music:
+      - Assamese Folk Music
       - Bengali Folk Music
+      - Bhojpuri Folk Music
+      - Gujarati Folk Music
       - Kirtan
       - Malayali Folk Music
       - Newa Folk Music
+      - Odia Folk Music
       - Pashto Folk Music
-      - Sri Lankan Folk Music
+      - Punjabi Folk Music
+      - Rajasthani Folk Music
+      - Sinhalese Folk Music:
+        - Sarala Gee
+      - Telugu Folk Music
+      - Urumi melam
     - Southeast Asian Folk Music:
+      - Bamar Folk Music
       - Gondang
       - Hmong Folk Music
       - Keroncong
+      - Khmer Folk Music
+      - Kuda Lumping
+      - Lao Folk Music
+      - Malay Folk Music
       - Molam
+      - Thai Folk Music
+    - Tatar Folk Music
     - Throat Singing:
       - Mongolian Throat Singing
       - Tuvan Throat Singing
     - Tonada
-    - Turkish Folk Music:
-      - Karadeniz Folk Music
-      - Zeybek
-    - Vietnamese Folk Music
+
+    - Vietnamese Folk Music:
+      - Quan họ
+    - West Asian Folk Music:
+      - Alevi Folk Music
+      - Armenian Folk Music:
+        - Kef Music
+      - Assyrian Folk Music
+      - Iranian Folk Music
+      - Israeli Folk Music
+      - Kurdish Folk Music
+      - Turkish Folk Music:
+        - Turkish Black Sea Region Folk Music
+        - Uzun Hava
+        - Zeybek
     - Work Songs:
       - Field Hollers
       - Sea Shanties
+      - Waulking Song
     - Yodeling:
       - Country Yodeling
+      - Naturjodel
 - Hip Hop:
   - Abstract Hip Hop
+  - Afroswing
+  - Afro Trap
+  - Arabesque Rap
   - Bongo Flava
   - Bounce
   - Chopped and Screwed
@@ -976,35 +1117,40 @@
   - Cloud Rap
   - Comedy Rap
   - Conscious Hip Hop
+  - Country Rap
   - Crunk:
     - Crunkcore
   - Dirty South
   - Disco Rap
   - East Coast Hip Hop
+  - Emo Rap
   - Experimental Hip Hop:
     - Industrial Hip Hop
   - French Hip Hop
-  - G-Funk
   - Genge
+  - G-Funk
   - Hardcore Hip Hop:
     - Boom Bap
     - Britcore
     - Gangsta Rap:
       - Chicano Rap
-      - Trap Rap:
-        - Bop
+      - Drill
     - Horrorcore
-  - Hip House
+    - Memphis Rap
+    - Trap Metal
   - Hiplife
   - Hyphy:
     - Jerk Rap
-  - Instrumental Hip Hop
+  - Instrumental Hip Hop:
+    - Lo-Fi Hip Hop
+    - Phonk
   - Japanese Hip Hop
   - Jazz Rap
+  - Jook
   - Latin Rap:
     - Chicano Rap
-  - Memphis Rap
   - Miami Bass:
+    - Atlanta Bass
     - Car Audio Bass
   - Mobb Music
   - Nerdcore
@@ -1013,29 +1159,38 @@
     - Bop
   - Snap
   - Southern Hip Hop
+  - Trap:
+    - Drill
+    - Phonk
+    - Trap Metal
+    - Tread
   - Turntablism
-  - UK Hip Hop:
-    - Britcore
+  - UK Hip Hop
   - West Coast Hip Hop
 - Industrial Music:
-  - EBM:
-    - Aggrotech
-    - Futurepop
-    - New Beat
-  - Electro-Industrial:
-    - Dark Electro:
-      - Aggrotech
   - Industrial:
     - Power Electronics:
       - Death Industrial
-    - Power Noise
-  - Industrial Hip Hop
-  - Industrial Metal:
-    - Cyber Metal
-    - Neue Deutsche Härte
-  - Industrial Rock
-  - Industrial Techno
-  - Martial Industrial
+  - Post-Industrial:
+    - Dark Ambient:
+      - Black Ambient
+      - Ritual Ambient
+    - Deconstructed Club
+    - EBM:
+      - Aggrotech
+      - Futurepop
+      - New Beat
+    - Electro-Industrial:
+      - Dark Electro
+    - Industrial Hardcore
+    - Industrial Hip Hop
+    - Industrial Metal:
+      - Cyber Metal
+      - Neue Deutsche Härte
+    - Industrial Rock
+    - Industrial Techno
+    - Martial Industrial
+  - Power Noise
 - Jazz:
   - Acid Jazz
   - Afro-Jazz
@@ -1055,6 +1210,7 @@
   - British Dance Band
   - Bulawayo Jazz
   - Cape Jazz
+  - Cartoon Music
   - Chamber Jazz
   - Cool Jazz
   - Dark Jazz
@@ -1063,8 +1219,9 @@
   - Ethio-Jazz
   - Flamenco Jazz
   - Gypsy Jazz
-  - Jazz Fusion
   - Jazz-Funk
+  - Jazz Fusion
+  - Jazz Poetry
   - Latin Jazz:
     - Afro-Cuban Jazz
   - Marabi:
@@ -1080,8 +1237,74 @@
     - Swing Revival
   - Third Stream
   - Vocal Jazz
+- Metal:
+  - Alternative Metal:
+    - Funk Metal
+    - Nu Metal
+    - Rap Metal
+  - Avant-Garde Metal
+  - Black Metal:
+    - Atmospheric Black Metal:
+      - Blackgaze
+    - Black 'n' Roll
+    - Depressive Black Metal
+    - Melodic Black Metal
+    - Pagan Black Metal
+    - Symphonic Black Metal
+    - War Metal
+  - Death Metal:
+    - Brutal Death Metal:
+      - Slam Death Metal
+    - Death 'n' Roll
+    - Deathgrind
+    - Melodic Death Metal
+    - Technical Death Metal
+  - Doom Metal:
+    - Death Doom Metal
+    - Funeral Doom Metal
+    - Traditional Doom Metal
+  - Drone Metal
+  - Folk Metal:
+    - Celtic Metal
+    - Medieval Folk Metal
+  - Gothic Metal
+  - Grindcore:
+    - Cybergrind
+    - Deathgrind
+    - Goregrind
+  - Groove Metal
+  - Heavy Metal:
+    - NWOBHM
+    - US Power Metal
+  - Industrial Metal:
+    - Cyber Metal
+    - Neue Deutsche Härte
+  - Melodic Metalcore:
+    - Nintendocore
+    - Trancecore
+  - Metalcore:
+    - Deathcore
+    - Mathcore
+  - Neoclassical Metal
+  - Post-Metal:
+    - Atmospheric Sludge Metal
+  - Power Metal
+  - Progressive Metal:
+    - Djent
+  - Sludge Metal:
+    - Atmospheric Sludge Metal
+  - Southern Metal
+  - Speed Metal
+  - Stoner Metal
+  - Symphonic Metal
+  - Thrash Metal:
+    - Crossover Thrash
+    - Technical Thrash Metal
+  - Trance Metal
+  - Viking Metal
 - Musical Theatre and Entertainment:
   - Cabaret
+  - Cải lương
   - Cuplé
   - Dutch Cabaret
   - Kabarett
@@ -1109,99 +1332,119 @@
     - Chalga
     - Manele
     - Modern Laika
+    - Musika popullore
     - Muzică de mahala
     - Skiladika
     - Tallava
     - Turbo-Folk
   - Baroque Pop:
     - Chamber Pop
+  - Bitpop:
+    - Picopop
   - Blue Eyed Soul
+  - Boy Band
   - Brill Building
   - Bubblegum
+  - Cambodian Pop
+  - CCM:
+    - Praise & Worship
+  - Classical Crossover
+  - Country Pop:
+    - Bro-Country
+    - Nashville Sound
+    - Urban Cowboy
   - C-Pop:
     - Cantopop
     - Mandopop
-  - CCM:
-    - Praise & Worship
-  - Cambodian Pop
-  - Classical Crossover
-  - Country Pop:
-    - Nashville Sound
-    - Urban Cowboy
   - Dance-Pop:
     - Afrobeats
     - Disco polo
     - Eurodance:
       - Bubblegum Dance
       - Italo Dance
+    - Freestyle
     - Funk Melody
     - Romanian Dance-Pop
     - Tecnorumba
-  - Dangdut
+    - Township Bubblegum
+  - Dangdut:
+    - Dangdut koplo
   - Dansbandsmusik
   - Dansktop
   - Easy Listening:
     - Exotica
     - Light Music
     - Lounge:
-      - Cocktail
+      - Cocktail Nation
     - Pops Orchestra
     - Space Age Pop
   - Electropop
   - Euro Pop
   - Flamenco Pop
   - Folk Pop
-  - French Pop:
-    - Yé-Yé
+  - French Pop
   - Girl Group
   - Glitch Pop
   - Indian Pop
   - Indie Pop:
+    - Bedroom Pop
     - C86
     - Chamber Pop
     - Twee Pop
+  - Irish Showband
   - Italo Pop
+  - Jazz Pop
   - J-Pop:
     - Denpa
-    - Shibuya-kei
-  - Jazz Pop
-  - K-Pop:
-    - Trot
+  - K-Pop
   - Latin Pop:
+    - Cumbia cheta
     - Tropipop
+  - Lokal musik
   - Nederpop
+  - New Romantic
   - Palingsound
   - Persian Pop
+  - Pop Ghazal
   - Pop Raï
   - Pop Rock:
     - Beat Music:
       - Freakbeat
       - Group Sounds
+      - Jovem Guarda
       - Merseybeat
       - Nederbeat
     - Britpop
     - Jangle Pop
+    - Manila Sound
     - Piano Rock
     - Power Pop
     - Soft Rock
-    - Zam-rock
-  - Pop Soul
+    - Stereo
+    - Vocal Surf
+    - Yacht Rock
+  - Pop Soul:
+    - Motown Sound
   - Pop Sunda
   - Progressive Pop
   - Psychedelic Pop
   - Rabiz
+  - Rigsar
   - Rumba catalana
   - Russian Chanson
   - Schlager:
     - Humppa
     - Levenslied
     - Volkstümliche Musik
+  - Sertanejo universitário:
+    - Funknejo
+  - Shibuya-kei
   - Sophisti-Pop
+  - Soviet Estrada
   - Sunshine Pop
   - Synth Pop:
-    - Bitpop:
-      - Picopop
     - Futurepop
+    - Techno Kayō
   - Teen Pop:
     - Boy Band
   - Traditional Pop:
@@ -1209,6 +1452,83 @@
     - Romanţe
     - Standards
   - Turkish Pop
+  - V-Pop
+  - Yé-yé
+- Psychedelia:
+  - Neo-Psychedelia:
+    - Hypnagogic Pop
+    - Paisley Underground
+  - Psychedelic Folk:
+    - Freak Folk
+    - Free Folk
+  - Psychedelic Pop
+  - Psychedelic Rock:
+    - Acid Rock
+    - Heavy Psych
+    - Raga Rock
+    - Space Rock
+  - Psychedelic Soul
+- Punk:
+  - Art Punk
+  - Digital Hardcore
+  - Emo:
+    - Emocore
+    - Emo-Pop
+    - Midwest Emo
+    - Screamo
+  - Post-Hardcore:
+    - Emocore
+    - Screamo
+  - Post-Punk:
+    - Coldwave
+    - Dance-Punk
+    - Gothic Rock:
+      - Deathrock
+    - No Wave
+    - Post-Punk Revival
+  - Proto-Punk
+  - Punk Rock:
+    - Anarcho-Punk
+    - Cowpunk
+    - Deathrock
+    - Deutschpunk
+    - Folk Punk:
+      - Celtic Punk
+      - Gypsy Punk
+    - Garage Punk
+    - Glam Punk
+    - Hardcore Punk:
+      - Beatdown Hardcore
+      - Crossover Thrash
+      - Crust Punk:
+        - D-Beat
+      - Grindcore:
+        - Cybergrind
+        - Deathgrind
+        - Goregrind
+      - Japanese Hardcore
+      - Melodic Hardcore
+      - Metalcore:
+        - Deathcore
+        - Mathcore
+      - New York Hardcore
+      - Noisecore
+      - Powerviolence:
+        - Emoviolence
+      - Thrashcore
+      - UK82
+    - Horror Punk
+    - Könsrock
+    - Oi!
+    - Pop Punk
+    - Psychobilly
+    - Punk Blues
+    - Queercore
+    - Riot Grrrl
+    - Ska Punk
+    - Skate Punk
+    - Surf Punk
+  - Synth Punk
 - R&B:
   - Boogie
   - Contemporary R&B:
@@ -1216,8 +1536,8 @@
     - New Jack Swing
   - Doo-Wop
   - Funk:
-    - Afro-Funk
     - Afrobeat
+    - Afro-Funk
     - Deep Funk
     - Go-Go
     - Jazz-Funk
@@ -1226,10 +1546,12 @@
     - Porn Groove
     - Synth Funk
   - New Orleans R&B
-  - Rhythm & Blues
+  - Rhythm & Blues:
+    - British Rhythm & Blues
   - Soul:
     - Chicago Soul
     - Country Soul
+    - Deep Soul
     - Latin Soul
     - Neo-Soul
     - Northern Soul
@@ -1255,62 +1577,96 @@
       - Ngoma:
         - Unyago
       - Semba
-      - Shona Mbira Music
       - Southern African Folk Music:
         - Khoisan Folk Music
         - Nguni Folk Music
+        - Shona Mbira Music
         - Sotho-Tswana Folk Music
       - Tchinkoumé
       - Traditional Maloya
       - Traditional Séga
       - Zinli
     - Afro-Jazz
-    - Assiko
-    - Bend-Skin
     - Berber Music:
       - Izlan
       - Sahrawi Music
       - Tuareg Music:
         - Tishoumaren
-    - Bikutsi
-    - Bongo Flava
     - Cape Verdean Music:
       - Batuque
       - Coladeira
       - Funaná
       - Morna
-    - Chimurenga
-    - Comorian Music
-    - Ethio-Jazz
-    - Genge
-    - Jit
-    - Kalindula
-    - Kapuka
-    - Kidumbak
-    - Kizomba
-    - Kuduro
-    - Makossa
+    - Central African Music:
+      - Ambasse bey
+      - Assiko
+      - Bend-Skin
+      - Bikutsi
+      - Kalindula
+      - Kilapanga
+      - Kizomba:
+        - Tarraxinha
+      - Kuduro:
+        - Batida
+      - Makossa
+      - Mbenga-Mbuti Music
+      - Semba
+      - Soukous:
+        - Kwassa kwassa
+      - Tradi-Modern
+      - Zamrock
+    - East African Music:
+      - Benga
+      - Bongo Flava
+      - Comorian Music
+      - Genge
+      - Kapuka
+      - Kidumbak
+      - Marrabenta
+      - Muziki wa dansi
+      - Ngoma:
+        - Unyago
+      - Singeli
+      - Taarab
+      - Timbila
     - Malagasy Music:
       - Malagasy Folk Music
       - Salegy
-    - Marrabenta
-    - Moorish Music
-    - Muziki Wa Dansi
-    - Nubian Music
-    - Qaraami
-    - Seychelles & Mascarene Islands Music:
-      - Maloya:
-        - Traditional Maloya
-      - Moutya
-      - Santé engagé
-      - Séga:
-        - Seggae
-        - Traditional Séga
-    - Soukous:
-      - Kwassa Kwassa
+      - Tsapiky
+    - North African Music:
+      - Algerian Chaabi
+      - Amazigh Music:
+        - Izlan
+        - Sahrawi Music
+        - Tuareg Music:
+          - Takamba
+          - Tishoumaren
+      - Ancient Egyptian Music
+      - Andalusian Classical Music
+      - Coptic Music
+      - Gnawa
+      - Moorish Music
+      - Raï:
+        - Pop Raï
+        - Traditional Raï
+      - Shaʻabi:
+        - Mahraganat
+    - Northeastern African Music:
+      - Azmari
+      - Ethio-Jazz
+      - Ethiopian Church Music
+      - Nubian Music
+      - Qaraami
+      - Tigrinya Music
+      - Tizita
     - Southern African Music:
+      - Amapiano
       - Bulawayo Jazz
       - Cape Jazz
+      - Chimurenga
+      - Famo
+      - Gqom
+      - Jit
       - Kwaito
       - Marabi:
         - Kwela
@@ -1320,26 +1676,31 @@
       - Southern African Folk Music:
         - Khoisan Folk Music
         - Nguni Folk Music
+        - Shona Mbira Music
         - Sotho-Tswana Folk Music
+      - Sungura
+      - Township Bubblegum
       - Township Jive
       - Tsonga Disco
-    - Taarab
-    - Tassu
-    - Tigrinya
-    - Tizita
-    - Tradi-Modern
     - West African Music:
       - Afro-Funk
-      - Akan Music
+      - Afro-Rock
+      - Akan Music:
+        - Zoblazo
+      - Balani Show
       - Dagomba Music
       - Ewe Music
       - Fon Music:
         - Tchink System
         - Tchinkoumé
         - Zinli
+      - Fula Music
       - Gumbe
+      - Hausa Music
       - Highlife:
+        - Burger-Highlife
         - Hiplife
+      - Igbo Music
       - Kabye Folk Music
       - Mande Music
       - Palm Wine Music
@@ -1347,6 +1708,7 @@
       - Wassoulou
       - Wolof Music:
         - Mbalax
+        - Tassu
       - Yoruba Music:
         - Afrobeat
         - Apala
@@ -1354,52 +1716,48 @@
         - Jùjú
         - Santería Music
         - Waka
-    - Zam-rock
-    - Zouglou:
-      - Coupé-Décalé
+      - Ziglibithy
+      - Zouglou:
+        - Coupé-Décalé
   - Ancient Music:
     - Ancient Chinese Music
     - Ancient Egyptian Music
     - Ancient Greek Music
     - Ancient Roman Music
     - Hyang-ak
-    - Sumerian Music
+    - Mesopotamian Music
   - Arabic Music:
+    - Algerian Chaabi
+    - Arabic Classical Music:
+      - Andalusian Classical Music
+      - Iraqi Maqam
+    - Arabic Folk Music:
+      - Arabic Bellydance Music
     - Arabic Jazz
     - Arabic Pop:
       - Al Jeel
-    - Arabic Traditional Music:
-      - Arabic Classical Music:
-        - Al-Maqam Al-Iraqi
-        - Andalusian Classical Music
-      - Arabic Folk Music:
-        - Algerian Chaabi
-        - Arabic Bellydance Music
     - Dabke
     - Raï:
       - Pop Raï
       - Traditional Raï
-    - Sha'abi
+    - Sha'abi:
+      - Mahraganat
     - Traditional Arabic Pop
-  - Armenian Music:
-    - Armenian Church Music
-    - Armenian Folk Music
-    - Rabiz
   - Balkan Music:
     - Balkan Folk Music:
       - Albanian Folk Music:
         - Lab Polyphony
-        - Popullore
+        - Musika popullore
         - Tosk Polyphony
       - Balkan Brass Band
       - Bulgarian Folk Music
       - Csango Folk Music
       - Gagauz Folk Music
       - Greek Folk Music:
+        - Aegean Islands Folk Music
+        - Cretan Folk Music
         - Dimotika
-        - Kritika
-        - Nisiotika Aigaiou
-        - Nisiotika Ioniou
+        - Ionian Islands Folk Music
         - Rembetika
       - Lăutărească
       - Macedonian Folk Music:
@@ -1411,6 +1769,7 @@
       - Chalga
       - Manele
       - Modern Laika
+      - Musika popullore
       - Muzică de mahala
       - Skiladika
       - Tallava
@@ -1426,87 +1785,99 @@
   - Brazilian Music:
     - Afoxé
     - Axé:
+      - Pagodão
       - Samba-Reggae
-      - Swingueira
     - Baião
     - Bossa Nova:
       - Samba-Jazz
     - Brazilian Classical Music
     - Brega:
+      - Arrocha
       - Tecnobrega
     - Candomblé Music
     - Capoeira Music
     - Carimbó
     - Choro:
-      - Samba-Choro
-    - Coco
+      - Samba-choro
+    - Coco:
+      - Ciranda
     - Forró:
-      - Forró Eletrônico
-      - Forró Universitário
+      - Forró eletrônico
+      - Forró universitário
     - Frevo
     - Funk Carioca:
+      - Brega-funk
       - Funk Melody
+      - Funk ostentação
+      - Funk proibidão
+      - Rasteirinha
     - Jongo
-    - Jovem Guarda
     - Lambada
-    - MPB:
-      - Tropicália
     - Mangue Beat
     - Maracatu
     - Maxixe
-    - Música Gaúcha
+    - MPB:
+      - Tropicália
+    - Música Gaúcha:
+      - Vanera
+    - Repente
     - Samba:
       - Batucada
       - Marchinha
       - Pagode:
-        - Pagode Romântico
-        - Pra God
-        - Swingueira
-      - Partido Alto
-      - Samba Soul
-      - Samba de Breque
-      - Samba de Roda
-      - Samba-Canção
-      - Samba-Choro
-      - Samba-Enredo
-      - Samba-Exaltação
+        - Pagodão
+        - Pagode romântico
+      - Partido alto
+      - Samba-canção
+      - Samba-choro
+      - Samba de breque
+      - Samba de roda
+      - Samba de terreiro
+      - Samba-enredo
+      - Samba-exaltação
       - Samba-Rock
+      - Samba Soul
     - Sertanejo:
-      - Moda de viola
-      - Raiz
       - Rasqueado
-      - Sertanejo Universitário
-      - Sertanejo-Moderno
+      - Sertanejo de raiz:
+        - Moda de viola
+      - Sertanejo romântico:
+        - Sertanejo universitário
     - Vanguarda Paulista
     - Xote
   - Caribbean Music:
     - Calypso:
-      - Soca:
-        - Chutney
-        - Rapso
       - Spouge
     - Caribbean Folk Music:
-      - Cariso
+      - Fungi
       - Garifuna Folk Music
       - Junkanoo
       - Méringue
       - Ripsaw
+      - Trinidadian Cariso
+      - Tumba
+      - Virgin Islander Cariso
     - French Caribbean Music:
       - Biguine
+      - Bouyon
       - Cadence Lypso
       - Cadence Rampa
       - Compas
+      - Dennery Segment
       - Gwo Ka
       - Méringue
       - Rara
       - Rasin
       - Tumbélé
       - Zouk:
+        - Cabo-Zouk
         - Zouk Love
     - Goombay
     - Jamaican Music:
       - Dancehall:
+        - Bubbling
         - Digital Dancehall
+        - Flex Dance Music
         - Ragga
       - Jamaican Ska
       - Mento
@@ -1524,19 +1895,48 @@
         - Skinhead Reggae
       - Rocksteady
     - Kaseko
+    - Parang
     - Punta
+    - Soca:
+      - Chutney
+      - Dennery Segment
+      - Power Soca
+      - Rapso
+  - Caucasian Music:
+    - Caucasian Folk Music:
+      - Abkhazian Folk Music
+      - Avar Folk Music
+      - Chechen Folk Music
+      - Circassian Folk Music
+      - Georgian Folk Music
+      - Ossetian Folk Music
+    - Rabiz
   - Chanson:
     - Chanson alternative
     - Chanson réaliste
     - Chanson à texte
     - Nouvelle chanson française
+  - Christian Liturgical Music:
+    - Armenian Church Music
+    - Byzantine Chant
+    - Coptic Music
+    - Ethiopian Church Music
+    - Gaelic Psalm
+    - Plainsong:
+      - Gregorian Chant
+    - Russian Orthodox Liturgical Music:
+      - Znamenny Chant
+    - Syriac Chant
   - Country:
     - Alt-Country:
       - Gothic Country
     - Americana
-    - Contemporary Country
+    - Contemporary Country:
+      - Country Rap
+      - Neo-Traditionalist Country
     - Country & Irish
     - Country Pop:
+      - Bro-Country
       - Nashville Sound
       - Urban Cowboy
     - Honky Tonk:
@@ -1559,24 +1959,36 @@
     - Western Swing
   - East Asian Music:
     - Ancient Chinese Music
+    - Cải lương
+    - Campus Folk
     - East Asian Classical Music:
       - Chinese Classical Music:
-        - Chinese Opera
+        - Baisha Xiyue
+        - Chinese Opera:
+          - Cantonese Opera
+          - Peking Opera
+          - Shaoxing Opera
+        - Dongjing
         - Yayue
       - Japanese Classical Music:
         - Gagaku
         - Heikyoku
+        - Honkyoku
         - Jiuta
         - Jōruri
         - Nagauta
         - Noh
-        - Shomyo
-        - Soukyoku:
+        - Shōmyō
+        - Sōkyoku:
           - Danmono
           - Kumiuta
       - Korean Classical Music:
+        - Aak
+        - Dang-ak
         - Hyang-ak
-      - Vietnamese Classical Music
+        - Jeong-ak
+      - Vietnamese Classical Music:
+        - Vietnamese Opera
     - East Asian Folk Music:
       - Ainu Folk Music:
         - Upopo
@@ -1585,49 +1997,67 @@
         - Guoyue
         - Han Folk Music
         - Jiangnan Sizhu
+      - Indigenous Taiwanese Music
       - Japanese Folk Music:
         - Amami Shimauta
         - Heikyoku
         - Kagura
-        - Minyou
+        - Kouta
+        - Min'yō
+        - Ondō
+        - Rōkyoku
         - Taiko
         - Tsugaru Shamisen
-      - Korean Folk Music
+      - Korean Folk Music:
+        - Pansori
+        - Sanjo
+        - Sinawi
     - Japanese Music:
       - Enka
       - Japanese Classical Music:
         - Gagaku
         - Heikyoku
+        - Honkyoku
         - Jiuta
         - Jōruri
         - Nagauta
         - Noh
-        - Shomyo
-        - Soukyoku:
+        - Shōmyō
+        - Sōkyoku:
           - Danmono
           - Kumiuta
       - Japanese Folk Music:
         - Amami Shimauta
         - Heikyoku
         - Kagura
-        - Minyou
+        - Kouta
+        - Min'yō
+        - Ondō
+        - Rōkyoku
         - Taiko
         - Tsugaru Shamisen
       - Kayōkyoku:
-        - Techno Kayo
+        - Mood Kayō
       - Ryūkōka
+      - Shinkyoku
+      - Techno Kayō
+      - Visual kei
+    - Nhạc vàng
     - Shidaiqu
+    - Trot
+    - Vietnamese Bolero
   - Greek Music:
     - Ancient Greek Music
-    - Byzantine Music
+    - Byzantine Music:
+      - Byzantine Chant
     - Entechna:
       - Entechna Laika
       - Neo Kyma
     - Greek Folk Music:
+      - Aegean Islands Folk Music
+      - Cretan Folk Music
       - Dimotika
-      - Kritika
-      - Nisiotika Aigaiou
-      - Nisiotika Ioniou
+      - Ionian Islands Folk Music
       - Rembetika
     - Laika:
       - Entechna Laika
@@ -1636,7 +2066,9 @@
   - Hispanic Music:
     - Canción melódica
     - Latin American Music:
+      - Andean Rock
       - Bachata
+      - Bambuco
       - Bolero:
         - Bolero son
         - Filin
@@ -1676,6 +2108,8 @@
       - Cumbia:
         - Bullerengue
         - Cumbia Argentina:
+          - Cumbia cheta
+          - Cumbia santafesina
           - Cumbia Villera
         - Cumbia Mexicana:
           - Cumbia sonidera
@@ -1684,6 +2118,7 @@
         - Merecumbé
         - Porro
       - Currulao
+      - Dembow
       - Guarania
       - Jibaro
       - Joropo
@@ -1702,15 +2137,18 @@
       - Latin Jazz:
         - Afro-Cuban Jazz
       - Latin Pop:
+        - Cumbia cheta
         - Tropipop
       - Latin Rock
       - Latin Soul
+      - Malagueña venezolana
       - Merengue:
         - Merecumbé
       - Mexican Music:
         - Bandas de viento de México:
           - Banda Sinaloense:
             - Movimiento Alterado
+            - Tecnobanda
         - Chilena
         - Corrido
         - Mariachi
@@ -1723,22 +2161,29 @@
           - Son Jarocho
           - Trova yucateca
         - Norteño:
+          - Duranguense
           - Movimiento Alterado
+          - Sierreño
         - Tejano
       - Milonga
       - Muliza
       - Música Criolla Peruana
+        - Marinera
+        - Tondero
+        - Vals criollo
       - Nueva canción latinoamericana:
         - Nueva trova
       - Onda nueva
       - Pasillo
       - Plena
-      - Reggaeton
+      - Reggaeton:
+        - Neoperreo
       - Rhumba
       - Salsa:
         - Salsa Dura
         - Salsa Romántica
         - Timba
+      - Saya afroboliviana
       - Tamborera
       - Tamborito
       - Tango:
@@ -1747,7 +2192,6 @@
           - Electrotango
       - Taquirari
       - Vallenato
-      - Venezuelan Malagueña
       - Zamba
     - Murga
     - Spanish Music:
@@ -1776,25 +2220,20 @@
         - Sevillanas
       - Tecnorumba
     - Tonada
-  - Iranian Music:
-    - Iranian Folk Music
-    - Persian Classical Music
-    - Persian Pop
   - Islamic Modal Music:
     - Anasheed
-    - Arabic Traditional Music:
-      - Arabic Classical Music:
-        - Al-Maqam Al-Iraqi
-        - Andalusian Classical Music
-      - Arabic Folk Music:
-        - Algerian Chaabi
-        - Arabic Bellydance Music
+    - Arabic Classical Music:
+      - Andalusian Classical Music
+      - Iraqi Maqam
     - Azerbaijani Traditional Music
     - Balochi Traditional Music
     - Ghazal
     - Iranian Folk Music
+    - Kurdish Folk Music
     - Moorish Music
+    - Pashto Folk Music
     - Persian Classical Music
+    - Sufiana kalam
     - Tajik Traditional Music:
       - Shashmaqam
     - Turkish Classical Music
@@ -1803,29 +2242,50 @@
     - Uyghur Traditional Music
     - Uzbek Traditional Music:
       - Shashmaqam
+  - Islamic Religious Music & Recitation:
   - Jewish Music:
+    - Ashkenazi Music:
+      - Nigun
+      - Yiddish Folksong
     - Cantillation
+    - Jewish Liturgical Music
     - Klezmer
-    - Mizrahi Music
-    - Sephardic Music
+    - Muzika mizrahit
+    - Oriental Jewish Music
+    - Sephardic Music:
+      - Maftirim
+  - Lokal musik
+  - Philippine Music:
+    - Balitaw
+    - Kundiman
+    - Manila Sound
+    - Pinoy Folk Rock
   - Polynesian Music:
     - Fijian Music
     - Hawaiian Music:
       - Slack-Key Guitar
-    - Te Pūoro Māori
+    - Himene tarava
+    - Māori Traditional Music
+    - Samoan Music
   - Polyphonic Chant:
-    - Ars Nova
-    - Ars Subtilior
+    - Ars nova
+    - Ars subtilior
+    - Cante alentejano
     - Cantu a tenore
+    - Himene tarava
     - Lab Polyphony
     - Madrigal
     - Sutartinės
     - Tosk Polyphony
+    - Trallalero
   - Portuguese Music:
+    - Música de intervenção
     - Pimba
     - Portuguese Folk Music:
+      - Cante alentejano
+      - Chamarrita açoriana
       - Fado:
-        - Coimbra Fado
+        - Fado de Coimbra
       - Trás-os-Montes Folk Music
   - Prehistoric Music
   - Romanian Music:
@@ -1837,11 +2297,26 @@
       - Doina
       - Lăutărească
     - Romanţe
+  - Russian Music:
+    - Bard Music
+    - Russian Chanson
+    - Russian Folk Music
+    - Russian Orthodox Liturgical Music:
+      - Znamenny Chant
+    - Russian Romance
+  - Seychelles & Mascarene Islands Music:
+    - Maloya
+    - Moutya
+    - Santé engagé
+    - Séga
   - South Asian Music:
     - Baila
     - Bhangra
     - Filmi
+    - Garba
     - Indian Pop
+    - Pop Ghazal
+    - Rigsar
     - South Asian Classical Music:
       - Carnatic Classical Music
       - Hindustani Classical Music:
@@ -1850,32 +2325,54 @@
         - Qawwali:
           - Kafi
         - Thumri
+      - Odissi Classical Music
+      - Sufiana kalam
     - South Asian Folk Music:
+      - Assamese Folk Music
       - Bengali Folk Music
+      - Bhojpuri Folk Music
+      - Gujarati Folk Music
       - Kirtan
       - Malayali Folk Music
       - Newa Folk Music
+      - Odia Folk Music
       - Pashto Folk Music
-      - Sri Lankan Folk Music
+      - Punjabi Folk Music
+      - Rajasthani Folk Music
+      - Sinhalese Folk Music:
+        - Sarala Gee
+      - Telugu Folk Music
+      - Urumi melam
   - Southeast Asian Music:
     - Batak Pop
     - Cambodian Pop
-    - Dangdut
+    - Dangdut:
+      - Dangdut koplo
     - Hmong Pop
-    - Jaipongan
+    - Jaipongan:
+      - Kliningan
+    - Kecak
     - Luk Krung:
       - Lilat
     - Luk Thung
+    - Mono
+    - Phleng phuea chiwit
     - Pop Sunda
+    - Qasidah Modern
     - Shadow Music
     - Southeast Asian Classical Music:
       - Burmese Classical Music
-      - Caklempong
       - Gamelan:
-        - Gamelan Angklung
-        - Gamelan Degung
-        - Gamelan Gong Kebyar
+        - Gamelan angklung
+        - Gamelan beleganjur
+        - Gamelan degung
+        - Gamelan gender wayang
+        - Gamelan gong gede
+        - Gamelan gong kebyar
         - Gamelan Jawa
+        - Gamelan jegog
+        - Gamelan selonding
+        - Gamelan semar pegulingan
       - Kecapi Suling
       - Kulintang
       - Mahori
@@ -1883,13 +2380,22 @@
       - Saluang Klasik
       - Tembang Cianjuran
       - Thai Classical Music:
+        - Khrueang sai
         - Piphat
     - Southeast Asian Folk Music:
+      - Bamar Folk Music
       - Gondang
       - Hmong Folk Music
       - Keroncong
+      - Khmer Folk Music
+      - Kuda Lumping
+      - Lao Folk Music
+      - Malay Folk Music
       - Molam
-  - Tibetan Traditional Music
+      - Thai Folk Music
+    - Stereo
+  - Tibetan Traditional Music:
+    - Zhabdro Gorgom
   - Traditional Folk Music:
     - African Folk Music:
       - Ambasse Bey
@@ -1904,16 +2410,17 @@
       - Ngoma:
         - Unyago
       - Semba
-      - Shona Mbira Music
       - Southern African Folk Music:
         - Khoisan Folk Music
         - Nguni Folk Music
+        - Shona Mbira Music
         - Sotho-Tswana Folk Music
       - Tchinkoumé
       - Traditional Maloya
       - Traditional Séga
       - Zinli
     - American Folk Music:
+      - Appalachian Folk Music
       - Barbershop
       - Boogie Woogie
       - Cajun:
@@ -1927,6 +2434,7 @@
         - Country Gospel:
           - Bluegrass Gospel
         - Southern Gospel
+        - Traditional Black Gospel
       - Jug Band
       - Ragtime:
         - Cakewalk
@@ -1935,6 +2443,7 @@
         - Stride
       - Sacred Harp Music
       - Spirituals
+      - Talking Blues
       - Traditional Country:
         - Bluegrass:
           - Bluegrass Gospel
@@ -1946,13 +2455,13 @@
         - Cowboy
         - Old-Time
     - Arabic Folk Music:
-      - Algerian Chaabi
       - Arabic Bellydance Music
-    - Armenian Folk Music
     - Australian Folk Music
     - Austronesian Traditional Music:
       - Gondang
+      - Indigenous Taiwanese Music
       - Pakacaping Music
+    - Balitaw
     - Canadian Folk Music:
       - Canadian Maritime Folk:
         - Cape Breton Folk Music:
@@ -1960,11 +2469,22 @@
       - French-Canadian Folk Music
       - Newfoundland Folk Music
     - Caribbean Folk Music:
-      - Cariso
+      - Fungi
       - Garifuna Folk Music
       - Junkanoo
       - Méringue
       - Ripsaw
+      - Trinidadian Cariso
+      - Tumba
+      - Virgin Islander Cariso
+    - Caucasian Folk Music:
+      - Abkhazian Folk Music
+      - Avar Folk Music
+      - Chechen Folk Music
+      - Circassian Folk Music
+      - Georgian Folk Music
+      - Ossetian Folk Music
+    - Chuvash Folk Music
     - East Asian Folk Music:
       - Ainu Folk Music:
         - Upopo
@@ -1973,30 +2493,38 @@
         - Guoyue
         - Han Folk Music
         - Jiangnan Sizhu
+      - Indigenous Taiwanese Music
       - Japanese Folk Music:
         - Amami Shimauta
         - Heikyoku
         - Kagura
-        - Minyou
+        - Kouta
+        - Min'yō
+        - Ondō
+        - Rōkyoku
         - Taiko
         - Tsugaru Shamisen
-      - Korean Folk Music
+      - Korean Folk Music:
+        - Pansori
+        - Sanjo
+        - Sinawi
     - European Folk Music:
-      - Alpine Folk Music
+      - Alpine Folk Music:
+        - Naturjodel
       - Balkan Folk Music:
         - Albanian Folk Music:
           - Lab Polyphony
-          - Popullore
+          - Musika popullore
           - Tosk Polyphony
         - Balkan Brass Band
         - Bulgarian Folk Music
         - Csango Folk Music
         - Gagauz Folk Music
         - Greek Folk Music:
+          - Aegean Islands Folk Music
+          - Cretan Folk Music
           - Dimotika
-          - Kritika
-          - Nisiotika Aigaiou
-          - Nisiotika Ioniou
+          - Ionian Islands Folk Music
           - Rembetika
         - Lăutărească
         - Macedonian Folk Music:
@@ -2005,9 +2533,9 @@
         - Starogradska muzika:
           - Čalgija
       - Basque Folk Music
-      - Catalan Folk Music
+      - Catalan Folk Music:
+        - Sardana
       - Celtic Folk Music:
-        - Acid Croft
         - Asturian Folk Music
         - Breton Celtic Folk Music:
           - Bagad
@@ -2023,16 +2551,19 @@
         - Scottish Folk Music:
           - Gaelic Psalm
           - Pibroch
+          - Pipe Band
           - Shetland and Orkney Islands Folk Music
+          - Waulking Song
         - Trás-os-Montes Folk Music
         - Welsh Folk Music
+      - Dutch Folk Music
       - English Folk Music:
         - Cornish Folk Music
-        - Folk Baroque
         - Northumbrian Folk Music
         - Scrumpy and Western
       - Estonian Folk Music
-      - Fanfare
+      - Fanfare:
+        - Brass Band
       - Flemish Folk Music
       - French Folk Music:
         - Alsatian Folk Music
@@ -2044,14 +2575,18 @@
         - Occitan Folk Music:
           - Auvergnat Folk Music
           - Gascon Folk Music
+      - German Folk Music
       - Għana
       - Hungarian Folk Music
       - Italian Folk Music:
         - Cantu a tenore
         - Canzone napoletana
+        - Liscio
+        - Trallalero
       - Latvian Folk Music
       - Lithuanian Folk Music:
         - Sutartinės
+      - Mari Folk Music
       - Neo-Medieval Folk
       - Nordic Folk Music:
         - Danish Folk Music
@@ -2066,6 +2601,8 @@
         - Swedish Folk Music
       - Polka
       - Portuguese Folk Music:
+        - Cante alentejano
+        - Chamarrita açoriana
         - Fado:
           - Coimbra Fado
         - Trás-os-Montes Folk Music
@@ -2075,11 +2612,12 @@
         - Doina
         - Lăutărească
       - Slavic Folk Music:
+        - Belarusian Folk Music
         - Bulgarian Folk Music
+        - Croatian Folk Music
         - Czech Folk Music
         - Goral Music:
           - Polish Carpathian Folk Music
-        - Klapa
         - Macedonian Folk Music:
           - Čalgija
         - Moravian Folk Music
@@ -2110,14 +2648,15 @@
         - Galician Folk Music
         - Pasodoble
         - Sevillanas
+      - Walloon Folk Music
       - Warsaw City Folk
+      - Yiddish Folksong
     - Georgian Folk Music
     - Hill Tribe Music:
       - Hmong Folk Music
     - Indigenous Australian Music:
       - Djanba
-    - Iranian Folk Music
-    - Israeli Folk Music
+    - Kundiman
     - Malagasy Folk Music
     - Mexican Folk Music:
       - Canto cardenche
@@ -2127,80 +2666,162 @@
       - Son Istmeño
       - Son Jarocho
       - Trova yucateca
+    - Micronesian Traditional Music
     - Native American Music:
-      - Inuit Vocal Games
+      - Carnavalito
+      - Harawi
+      - Huayno
+      - Inuit Music:
+        - Inuit Vocal Games
       - Powwow Music
     - Papuan Traditional Music
     - Rapai dabõih
     - Romani Folk Music
-    - Sephardic Music
+    - Samoyedic Traditional Music
+    - Sephardic Music:
+        - Maftirim
     - South American Folk Music:
       - Andean Folk Music:
+        - Carnavalito
+        - Chacarera
         - Harawi
         - Huayno
         - Muliza
+        - Saya afroboliviana
+      - Bambuco
       - Canto a lo poeta
-      - Chacarera
+      - Chamarrita rioplatense
       - Cueca
       - Joropo
+      - Malagueña venezolana
       - Mapuche Music
       - Milonga
-      - Música Criolla Peruana
+      - Música criolla peruana:
+        - Marinera
+        - Tondero
+        - Vals criollo
+      - Sertanejo de raiz:
+        - Moda de viola
       - Tamborito
       - Taquirari
-      - Venezuelan Malagueña
+      - Vallenato
       - Zamba
     - South Asian Folk Music:
+      - Assamese Folk Music
       - Bengali Folk Music
+      - Bhojpuri Folk Music
+      - Gujarati Folk Music
       - Kirtan
       - Malayali Folk Music
       - Newa Folk Music
+      - Odia Folk Music
       - Pashto Folk Music
-      - Sri Lankan Folk Music
+      - Punjabi Folk Music
+      - Rajasthani Folk Music
+      - Sinhalese Folk Music:
+        - Sarala Gee
+      - Telugu Folk Music
+      - Urumi melam
     - Southeast Asian Folk Music:
+      - Bamar Folk Music
       - Gondang
       - Hmong Folk Music
       - Keroncong
+      - Khmer Folk Music
+      - Kuda Lumping
+      - Lao Folk Music
+      - Malay Folk Music
       - Molam
+      - Thai Folk Music
+    - Tatar Folk Music
     - Throat Singing:
       - Mongolian Throat Singing
       - Tuvan Throat Singing
     - Tonada
-    - Turkish Folk Music:
-      - Karadeniz Folk Music
-      - Zeybek
-    - Vietnamese Folk Music
+
+    - Vietnamese Folk Music:
+      - Quan họ
+    - West Asian Folk Music:
+      - Alevi Folk Music
+      - Armenian Folk Music:
+        - Kef Music
+      - Assyrian Folk Music
+      - Iranian Folk Music
+      - Israeli Folk Music
+      - Kurdish Folk Music
+      - Turkish Folk Music:
+        - Turkish Black Sea Region Folk Music
+        - Uzun Hava
+        - Zeybek
     - Work Songs:
       - Field Hollers
       - Sea Shanties
+      - Waulking Song
     - Yodeling:
       - Country Yodeling
+      - Naturjodel
   - Turkic-Mongolic Traditional Music:
     - Altai Traditional Music
+    - Bashkir Folk Music
+    - Buryat Folk Music
+    - Kalmyk Traditional Music
+    - Karakalpak Traditional Music
     - Kazakh Traditional Music
     - Khakas Traditional Music
-    - Kirghiz Traditional Music
+    - Kyrgyz Traditional Music
     - Mongolian Traditional Music:
       - Bogino Duu
       - Mongolian Long Song
       - Mongolian Throat Singing
     - Sakha Traditional Music
     - Tuvan Throat Singing
-  - Turkish Music:
-    - Anatolian Rock
-    - Arabesque
-    - Kanto
-    - Ottoman Military Music
-    - Turkish Classical Music
-    - Turkish Folk Music:
-      - Karadeniz Folk Music
-      - Zeybek
-    - Turkish Pop
-    - Turkish Sufi Music
-    - Özgün Müzik
+  - West Asian Music:
+    - Armenian Music:
+      - Armenian Church Music
+      - Armenian Folk Music
+      - Rabiz
+    - Azerbaijani Traditional Music
+    - Dabke
+    - Iranian Music:
+      - Bandari
+      - Iranian Folk Music
+      - Maddahi
+      - Persian Classical Music
+      - Persian Pop
+    - Iraqi Maqam
+    - Maftirim
+    - Mesopotamian Music
+    - Muzika mizrahit
+    - Turkish Music:
+      - Anatolian Rock
+      - Arabesque
+      - Fantezi
+      - Kanto
+      - Ottoman Military Music
+      - Özgün Müzik
+      - Turkish Classical Music
+      - Turkish Folk Music:
+        - Turkish Black Sea Region Folk Music
+        - Uzun Hava
+        - Zeybek
+      - Turkish Pop
+      - Turkish Sufi Music
+    - West Asian Folk Music:
+      - Alevi Folk Music
+      - Armenian Folk Music:
+        - Kef Music
+      - Assyrian Folk Music
+      - Iranian Folk Music
+      - Israeli Folk Music
+      - Kurdish Folk Music
+      - Turkish Folk Music:
+        - Turkish Black Sea Region Folk Music
+        - Uzun Hava
+        - Zeybek
+  - Zohioliin duu
 - Rock:
-  - AOR
   - Acoustic Rock
+  - Afro-Rock
   - Alternative Rock:
     - Alternative Dance:
       - Grebo
@@ -2210,20 +2831,25 @@
     - Emo-Pop
     - Grunge
     - Indie Rock:
+      - C86
       - Dunedin Sound
-      - Lo-Fi Indie
+      - Hamburger Schule
+      - Lo-Fi / Slacker Rock
       - Midwest Emo
       - Post-Punk Revival
       - Slowcore
     - Jangle Pop
-    - Math Rock
     - Noise Pop
+    - Paisley Underground
     - Post-Grunge
-    - Rap Rock
     - Shoegaze
+  - Andean Rock
+  - AOR
+  - Art Punk
   - Art Rock
   - Blues Rock:
     - Boogie Rock
+  - British Rhythm & Blues
   - Christian Rock
   - Comedy Rock
   - Country Rock:
@@ -2231,14 +2857,16 @@
   - Dark Cabaret
   - Deutschrock
   - Emo:
+    - Emocore
     - Emo-Pop
-    - Emocore:
-      - Screamo
     - Midwest Emo
+    - Screamo:
+      - Emoviolence
   - Experimental Rock:
     - Avant-Prog:
       - Rock in Opposition
       - Zeuhl
+    - Brutal Prog
     - Krautrock
     - No Wave
   - Folk Rock:
@@ -2249,8 +2877,12 @@
     - Celtic Rock
     - Medieval Rock
     - Nordic Folk Rock
-  - Funk Rock
+    - Phleng phuea chiwit
+    - Pinoy Folk Rock
+  - Funk Rock:
+    - Funk Metal
   - Garage Rock:
+    - Freakbeat
     - Garage Punk
     - Garage Rock Revival
   - Glam Rock
@@ -2260,13 +2892,13 @@
   - Hard Rock:
     - Glam Metal
     - Heavy Psych
-    - Rock Urbano
     - Stoner Rock
   - Heartland Rock
   - Industrial Rock
   - Jam Band
   - Jazz-Rock
   - Latin Rock
+  - Math Rock
   - Metal:
     - Alternative Metal:
       - Funk Metal
@@ -2276,6 +2908,7 @@
     - Black Metal:
       - Atmospheric Black Metal:
         - Blackgaze
+      - Black 'n' Roll
       - Depressive Black Metal
       - Melodic Black Metal
       - Pagan Black Metal
@@ -2304,21 +2937,25 @@
     - Groove Metal
     - Heavy Metal:
       - NWOBHM
+      - US Power Metal
     - Industrial Metal:
       - Cyber Metal
       - Neue Deutsche Härte
     - Melodic Metalcore:
+      - Nintendocore
       - Trancecore
     - Metalcore:
       - Deathcore
       - Mathcore
-      - Nintendocore
     - Neoclassical Metal
+    - Post-Metal:
+      - Atmospheric Sludge Metal
     - Power Metal
     - Progressive Metal:
       - Djent
     - Sludge Metal:
       - Atmospheric Sludge Metal
+    - Southern Metal
     - Speed Metal
     - Stoner Metal
     - Symphonic Metal
@@ -2329,34 +2966,43 @@
     - Viking Metal
   - Mod:
     - Mod Revival
-  - Neue Deutsche Welle
   - New Wave:
-    - Coldwave
+    - Neue Deutsche Welle
     - New Romantic
   - Noise Rock
   - Pop Rock:
     - Beat Music:
       - Freakbeat
       - Group Sounds
+      - Jovem Guarda
       - Merseybeat
       - Nederbeat
     - Britpop
     - Jangle Pop
+    - Manila Sound
     - Piano Rock
     - Power Pop
     - Soft Rock
-    - Zam-rock
+    - Stereo
+    - Vocal Surf
+    - Yacht Rock
+  - Post-Hardcore:
+    - Emocore
+    - Screamo
   - Post-Punk:
     - Coldwave
     - Dance-Punk
-    - Death Rock
+    - Gothic Rock:
+        - Deathrock
     - No Wave
   - Post-Rock
+  - Post-Punk Revival
   - Progressive Rock:
     - Andalusian Rock
     - Avant-Prog:
       - Rock in Opposition
       - Zeuhl
+    - Brutal Prog
     - Canterbury Scene
     - Krautrock
     - Neo-Prog
@@ -2365,16 +3011,13 @@
   - Psychedelic Rock:
     - Acid Rock
     - Heavy Psych
-    - Neo-Psychedelia:
-      - Hypnagogic Pop
-    - Paisley Underground
     - Raga Rock
     - Space Rock
   - Pub Rock
   - Punk Rock:
     - Anarcho-Punk
-    - Art Punk
     - Cowpunk
+    - Deathrock
     - Deutschpunk
     - Folk Punk:
       - Celtic Punk
@@ -2395,10 +3038,10 @@
       - Metalcore:
         - Deathcore
         - Mathcore
-        - Nintendocore
       - New York Hardcore
       - Noisecore
-      - Powerviolence
+      - Powerviolence:
+        - Emoviolence
       - Thrashcore
       - UK82
     - Horror Punk
@@ -2416,12 +3059,13 @@
     - Skate Punk
     - Surf Punk
     - Synth Punk
+  - Rap Rock
   - Rock & Roll:
     - Indorock
-    - Jovem Guarda
     - Rockabilly:
       - Psychobilly
   - Rock Opera
+  - Rock urbano español
   - Roots Rock:
     - Swamp Rock
     - Tex-Mex
@@ -2429,28 +3073,56 @@
     - Red Dirt
   - Sufi Rock
   - Surf Rock:
-    - Eleki
-    - Rautalanka
-    - Shadow Music
+    - Surf Punk
+    - Surf Rock
+        - Eleki
+        - Rautalanka
+        - Shadow Music
+    - Vocal Surf
   - Symphonic Rock
-  - Visual Kei
-  - West Coast Rock
+  - Zamrock
   - Zolo
 - Singer/Songwriter:
-  - Alternative Singer/Songwriter
-  - Bard Music
-  - Chanson à texte
-  - Liedermacher
-  - Nueva canción:
-    - Nueva canción española
-    - Nueva canción latinoamericana:
-      - Nueva trova
-  - Poezja śpiewana
+    - Bard Music
+    - Canzone d'autore
+    - Chanson à texte
+    - Liedermacher
+    - Música de intervenção
+    - Nueva canción:
+        - Nueva canción española
+        - Nueva canción latinoamericana:
+            - Nueva trova
+    - Poezja śpiewana
 - Ska:
   - 2 Tone
   - Jamaican Ska
   - Spouge
   - Third Wave Ska:
     - Ska Punk
-- Spaghetti Western
-
+- Sounds and Effects
+- Soundtracks:
+  - Cartoon Music
+  - Film Soundtrack:
+    - Film Score
+    - Filmi
+  - Jingles
+  - Library Music
+  - Show Tunes:
+    - Operetta:
+      - Zarzuela
+  - Sounds and Effects
+  - Television Music
+  - Video Game Music
+- Spoken Word:
+  - Fairy Tales
+  - Interview
+  - Lectures
+  - Poetry:
+    - Beat Poetry
+    - Dub Poetry
+    - Jazz Poetry
+    - Nursery Rhymes
+    - Slam Poetry
+    - Sound Poetry
+  - Radio Drama
+  - Speeches
